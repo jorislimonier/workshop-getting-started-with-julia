@@ -6,8 +6,10 @@
 
 ### In this repo
 
-1. Julia basics
-1. Julia Data Science
+1. Julia Basics
+1. Julia Data Visualization
+1. Homework
+1. Homework solution
 
 ### Other repo's
 
