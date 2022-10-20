@@ -17,6 +17,23 @@
 - **Invoice Generator in Julia**: https://github.com/jorislimonier/julia-invoice-generator
 - **Julia Course**: https://www.manning.com/liveprojectseries/learn-julia-ser
 
+### FAQ
+
+- How to download the `airquality` dataset?
+  - **using** the `RDatasets` library
+- Do I need Python installed?
+  - No
+- How to run Julia code from a notebook?
+  - **From [Visual Studio Code](https://code.visualstudio.com/download) (VS Code)**:
+    1. Install Visual Studio Code
+    1. Download the Julia extension from within VS Code
+    1. Download the [IJulia](https://julialang.github.io/IJulia.jl/stable/manual/installation/) library through the terminal (allows to run cells in Julia)
+    1. Create a notebook
+    1. Change the Notebook kernel to your julia
+  - From Jupyter Notebook
+    - Start Jupyter Notebook
+    - Follow steps 3, 4 and 5 above
+
 ## Reach out :mailbox_with_mail:
 
 - **LinkedIn**: https://www.linkedin.com/in/joris-limonier-a48a0213a/
